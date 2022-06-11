@@ -15,6 +15,10 @@
 
 <br>
 <table  width = "600px">
+<body background="https://appleblock.cn/miku.webp"
+               style="background-repeat:no-repeat               
+               background-attachment:fixed;
+               background-size:100% 100%; ">
 <tbody>
  <tr>
 <td align="center" width="70px">
