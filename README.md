@@ -40,17 +40,15 @@
 </div>
 <span><b><center>OpenJDK</center></b></span> 
 </td>
-</tr>
 
 
 
 <td align="center" width="70px">
 <div>
-<img height=60px src="https://baike.baidu.com/pic/HTML/97049/1/fcfaaf51f3deb48fed44b731fe1f3a292df5782b?fr=lemma&ct=single"> 
+<img height=60px src="https://bkimg.cdn.bcebos.com/pic/fcfaaf51f3deb48fed44b731fe1f3a292df5782b?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto"> 
 </div>
 <span><b><center>HTML</center></b></span> 
 </td>
-</tr>
 
 
 
@@ -60,13 +58,12 @@
 </div>
 <span><b><center>CSS</center></b></span> 
 </td>
-</tr>
 
 
 
 <td align="center" width="70px">
 <div>
-<img height=60px src="https://baike.baidu.com/pic/PHP/9337/1/d01373f082025aafa40f8c09ebbfbc64034f79f0aced?fr=lemma&ct=single"> 
+<img height=60px src="https://bkimg.cdn.bcebos.com/pic/d01373f082025aafa40f8c09ebbfbc64034f79f0aced?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto"> 
 </div>
 <span><b><center>PHP</center></b></span> 
 </td>
