@@ -1,15 +1,16 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* 我是　[Mxmilu](http://mxmilu.top) :blush:
+* 我是Mxmilu:blush:
 * 一个不怎么会写代码的，什么都搞。热衷开源项目。🤔
-* 喜欢研究一些新鲜的事物，喜欢音乐🎶，看电影.📖
+* 喜欢研究一些新鲜的事物，喜欢音乐🎶，喜欢看书.📖
 
 * 目前是一名学生
   
 
-* 如果你想要找到我，欢迎光临我的博客 [Mxmilu's Blog](https://mxmilu.top/) 🎊🎊🎊🎊🎊🎊
+* 如果你想要找到我，欢迎光临我的博客(正在建设中)🎊🎊🎊🎊🎊🎊
 
+![Metrics](https://metrics.lecoq.io/Mxmilu666?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 ## 正在学习 :computer:
 
