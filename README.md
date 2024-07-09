@@ -9,8 +9,8 @@
 
 ### Programming languages
 * My first language is PHP
-* I know a little bit about Python, Golang, HTML, CSS, and, .net JavaScript
-* Now focusing on Golang, vue.js, Java
+* I know a little bit about Python, Golang, HTML, CSS, C#, Java and JavaScript
+* Now focusing on Golang, vue.js
 
 ## 关于我: 
 * 我是Mxmilu
@@ -21,8 +21,8 @@
 
 ### 编程语言
 * 主要语言为PHP
-* 会一点点Python，Golang，html，css，.net，js
-* 正在主攻Golang，vue.js，Java 
+* 会一点点Python，Golang，html，css，Java，C#，JavaScript
+* 正在主攻Golang，vue.js
 
 Belongs to **[AppleBlockTeam](https://github.com/AppleBlockteam)** - A Pure Minecraft survival server  
 
