@@ -19,6 +19,13 @@
 * **Focusing on: Golang, Vue.js**
 
 <!--START_SECTION:waka-->
+
+```txt
+Go         1 hr 2 mins     ██████████████████░░░░░░░   72.62 %
+Markdown   23 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
