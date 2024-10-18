@@ -18,6 +18,14 @@
 * Skilled in: Python, Golang, HTML, CSS, C#, Java, JavaScript
 * **Focusing on: Golang, Vue.js**
 
+## 🔒 Public Keys
+
+GPG Public Keys 
+
+```
+Key ID = B819888888888888
+```
+
 ## ⌛️ [WakaTime](https://wakatime.com/)
 
 <!--START_SECTION:waka-->
