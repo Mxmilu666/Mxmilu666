@@ -31,7 +31,7 @@ Key ID = B819888888888888
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 hr 26 mins    █████████████████████████   100.00 %
+Other   42 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
