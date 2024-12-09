@@ -31,10 +31,7 @@ Key ID = B819888888888888
 <!--START_SECTION:waka-->
 
 ```txt
-Go     16 mins         ████████████████████████▓   98.72 %
-PHP    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
