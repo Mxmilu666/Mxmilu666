@@ -1,30 +1,22 @@
 <h1 align="center"> Hello There, I'm Mxmilu! 👋 </h1>
 
-##  About Me: 
-* A full-stack programmer who doesn't know how to write code and does everything. Enthusiastic about open source projects. 🤔
-* I enjoy researching new things and enjoying music,I enjoy reading books 📖
-* Currently a student
+## ✨ About Me: 
+* A novice programmer focused on full-stack development, still gaining experience but passionate about continuous learning and improvement through practice.
+* Curious about new technologies and enjoy exploring cutting-edge advancements to apply them in practical projects.
+* Currently a student.
 * If you want to find me, welcome to my blog [milu.moe](https://milu.moe) qwq！
 
-##  关于我: 
-* 一个不怎么会写代码的全栈程序员，什么都搞。热衷开源项目。🤔
-* 喜欢研究一些新鲜的事物，喜欢音乐🎶，喜欢看书.📖
-* 目前是一名学生
-* 如果你想要找到我，欢迎光临我的小 Blog [milu.ink](https://milu.ink) qwq！
+## ✨ 关于咱
+* 会一点点全栈开发但经常写爆炸的萌新程序员一个
+* 探索欲超强的！喜欢探索和学习新的技术📖
+* 目前是一名普通の学生党
+* 想捕获咱？欢迎光临咱的小网站 [milu.ink](https://milu.ink) qwq！
 
 ## 🔭 Tech Stack / 技术栈
 
-* First Language: PHP
-* Skilled in: Python, Golang, HTML, CSS, C#, Java, JavaScript
-* **Focusing on: Golang, Vue.js**
-
-## 🔒 Public Keys
-
-GPG Public Keys 
-
-```
-Key ID = B819888888888888
-```
+* First Language: PHP, Golang
+* Skilled in: Vue.js, TypeScript, Python, C#, Java
+* **Focusing on: Vue.js, TypeScript**
 
 ## ⌛️ [WakaTime](https://wakatime.com/)
 
