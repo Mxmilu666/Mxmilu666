@@ -7,7 +7,7 @@
 * If you want to find me, welcome to my blog [milu.moe](https://milu.moe) qwq！
 
 ## ✨ 关于我
-* 会一点点全栈开发但经常写爆炸的萌新程序员一个
+* 会一点点全栈开发但经常写爆炸的萌新程序员一个~
 * 探索欲超强的！喜欢探索和学习新的技术📖
 * 目前是一名普通の学生党
 * 想捕获我？欢迎光临咱的小网站 [milu.ink](https://milu.ink) qwq！
