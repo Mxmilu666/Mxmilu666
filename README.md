@@ -9,13 +9,13 @@
 ## ✨ 关于我
 * 会一点点全栈开发但经常写爆炸的萌新程序员一个~
 * 探索欲超强的！喜欢探索和学习新的技术📖
-* 目前是一名普通の学生党
+* 目前是一名在校猫猫
 * 想捕获我？欢迎光临咱的小网站 [milu.ink](https://milu.ink) qwq！
 
 ## 🔭 Tech Stack / 技术栈
 
 * First Language: PHP, Golang
-* Skilled in: Vue.js, TypeScript, Python, C#, Java
+* Known: Vue.js, TypeScript, Python, C#, Java
 * **Focusing on: Vue.js, TypeScript**
 
 ## ⌛️ [WakaTime](https://wakatime.com/)
