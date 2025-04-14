@@ -36,7 +36,8 @@
 ## 🤝 Contact Me / 联系我
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mxmilu666)
 [![email](https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:milu@milu.moe)
-[![Telegram](https://img.shields.io/badge/Telegram-@Ximiawa_bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ximiawa_bot)
+[![Telegram](https://img.shields.io/badge/Telegram-@Ximiawa_bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https:****//t.me/Ximiawa_bot)
+[![blog](https://img.shields.io/badge/blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://milu.ink)
 
 ## ⌛️ [WakaTime](https://wakatime.com/)
 
