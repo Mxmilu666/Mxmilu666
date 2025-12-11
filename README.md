@@ -39,8 +39,8 @@ JSON         47 mins         ██░░░░░░░░░░░░░░░
 <br/>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mxmilu666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats" style="height: 200px;" align="center"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxmilu666&layout=donut" style="height: 200px;" align="center"/>
+    <img src="https://github-readme-stats-three-sage-17.vercel.app/api?username=Mxmilu666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats" style="height: 200px;" align="center"/>
+    <img src="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=Mxmilu666&layout=donut" style="height: 200px;" align="center"/>
 </p>
 
 <div align="center">
