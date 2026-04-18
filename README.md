@@ -4,9 +4,8 @@
 
 ### ✨ About Me:
 
-- My Chinese name is "不可以吃的米露" (Inedible Milu), but in international environments, I prefer to use the English name Mxmilu (Milu).
 - I’m a 16-year-old student and a budding full-stack explorer. I might still be a novice, but I’m leveling up my coding skills every single day through practice! I have a huge crush on new tech and love turning cutting-edge ideas into real-world magic.
-- Co-Founder of LOLINYA TECHNOLOGY LTD. / AppleBlock Team / Lolia FRP.
+- Co-Founder of [NYANLOLI LTD.](https://nyanloli.com) / [Lolia FRP.](https://lolia.link) / AppleBlock Team
 
 ---
 
